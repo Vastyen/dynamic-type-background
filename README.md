@@ -1,2 +1,2 @@
-# Dynamic Background Typing 🚀
+# Dynamic Type Background 🚀
 
