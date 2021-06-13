@@ -9,6 +9,4 @@
 * CSS3
 
 
-<p align="center>
-          https://vincentgarreau.com/particles.js/
-          </p>
+<p text-align="center>https://vincentgarreau.com/particles.js/</p>
