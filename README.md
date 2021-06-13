@@ -1,7 +1,7 @@
 # Dynamic Type Background 🚀
 
 
-Stack 
+## Stack 
 
 * JavaScript
 * Particles.js
