@@ -12,8 +12,9 @@
 
 
 
-          
-<div style="text-align:center">https://vincentgarreau.com/particles.js/</div>
+         
+<div style="text-align:center">https://vincentgarreau.com/particles.js
+</div>
                     
                     
 ## Contributing
